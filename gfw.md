@@ -16,8 +16,8 @@
 
 ```
 # 开启代理, v2ray 默认端口:10808
-export http_proxy="socks5://host:port"
-export https_proxy="socks5://host:port"
+export http_proxy="socks5://127.0.0.1:10808"
+export https_proxy="socks5://127.0.0.1:10808"
 
 # 关闭代理
 unset http_proxy
