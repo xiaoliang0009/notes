@@ -3,4 +3,6 @@
 * [工作笔记资料](README.md)
 * [Linux 配置 v2ray代理](gfw.md)
 * [RabbitMQ](rabbitmq.md)
+* [MySQL](mysql.md)
+* [Cache](cache.md)
 
