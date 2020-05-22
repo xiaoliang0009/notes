@@ -33,7 +33,7 @@ Channel :
 
   只有一个生产者、一个消费者和一个队列
 
-![simple](http://flighter-img.oss-cn-hangzhou.aliyuncs.com/1722d5a23685a99a.webp)
+![simple](.gitbook/assets/1722d5a23685a99a.webp)
 
 * 工作模式 \(work\)
 
@@ -48,4 +48,6 @@ Channel :
 ```text
 * 队列阻塞
 ```
+
+
 
