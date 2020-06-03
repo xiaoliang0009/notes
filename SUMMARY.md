@@ -7,3 +7,7 @@
   * [优化相关](mysql/you-hua-xiang-guan.md)
 * [Cache](cache.md)
 
+## Nginx
+
+* [负载均衡](nginx/fu-zai-jun-heng.md)
+
