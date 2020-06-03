@@ -6,8 +6,7 @@
 * [MySQL](mysql/README.md)
   * [优化相关](mysql/you-hua-xiang-guan.md)
 * [Cache](cache.md)
+* [Nginx](nginx-1.md)
 
 ## Nginx
-
-* [负载均衡](nginx/fu-zai-jun-heng.md)
 

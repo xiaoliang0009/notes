@@ -1,4 +1,6 @@
-# 负载均衡
+# Nginx
+
+### 负载均衡策略
 
 实现是通过 `upstream` +  `proxy_pass` 实现的
 
