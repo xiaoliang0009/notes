@@ -51,7 +51,7 @@
 
 数据结构，对应的应用场景：
 
-* String ： key value的形式，最大能存512MB
+* String ： key value的形式，最大能存512MB，现在是可以存储2G
 * hash ：    key hashmap的形式
 * list ： 链表，主要应用于消息队列的实现。轻量级，没有重试重放机制
 * set ： 无排序且不允许重复，比如保存一些标签
